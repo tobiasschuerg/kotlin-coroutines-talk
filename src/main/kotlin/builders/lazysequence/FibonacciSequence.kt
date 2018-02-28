@@ -1,4 +1,4 @@
-package advanced.lazysequence
+package builders.lazysequence
 
 import kotlinx.coroutines.experimental.launch
 import kotlinx.coroutines.experimental.runBlocking
